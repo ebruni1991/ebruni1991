@@ -1,15 +1,15 @@
 ## Hi there 👋
-
-<!--
-**ebruni1991/ebruni1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 Cytometry In R
 Location: Milan, Italy
 My Favorite Fluorophore/Metal-Isotope: BV421
 Previous Coding Experience: basic R functions and TCR analysis
 What I Hope to Get From This Course: Some tools to better manage high-parameter flowcytometry data
+<!--
+**ebruni1991/ebruni1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
