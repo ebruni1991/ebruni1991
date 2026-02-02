@@ -5,6 +5,12 @@
 
 Here are some ideas to get you started:
 
+Cytometry In R
+Location: Milan, Italy
+My Favorite Fluorophore/Metal-Isotope: BV421
+Previous Coding Experience: basic R functions and TCR analysis
+What I Hope to Get From This Course: Some tools to better manage high-parameter flowcytometry data
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
